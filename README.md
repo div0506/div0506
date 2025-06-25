@@ -11,8 +11,8 @@
 - 🎓 I'm pursuing **B.Tech in Computer Science with specialization in AIML**  
 - 💡 I love working on **Python, Data Analysis, and Machine Learning** projects  
 - 🧠 Currently learning: **Data Engineering and Streamlit Dashboards**
-- 🛠️ Projects include: **COVID-19 Tracker, GUI Simulation with Java, Titanic Classifier**
-- 📄 Know more about my experience: [My Resume](#) <!-- Add your resume link -->
+- 🛠️ Projects include: **COVID-19 Tracker**
+- 📄 Know more about my experience: [My Resume](#) <!--  -->
 
 ---
 
